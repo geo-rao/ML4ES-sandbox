@@ -15,5 +15,7 @@ install.packages("rattle")
 install.packages("RWeka")
 install.packages("xgboost")
 install.packages("rBayesianOptimization")
+install.packages("fastICA")
+install.packages("psych")
 #install.packages("keras"); 
 #install.packages("tensorflow")
