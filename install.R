@@ -17,5 +17,6 @@ install.packages("xgboost")
 install.packages("rBayesianOptimization")
 install.packages("fastICA")
 install.packages("psych")
+install.packages("FAtools")
 #install.packages("keras"); 
 #install.packages("tensorflow")
