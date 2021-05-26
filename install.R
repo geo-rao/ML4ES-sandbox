@@ -22,7 +22,6 @@ install.packages("cluster")
 install.packages("NbClust")
 install.packages("factoextra")
 install.packages("dbscan")
-install.packages("GGally")
 install.packages("aricode")
 #install.packages("keras"); 
 #install.packages("tensorflow")
